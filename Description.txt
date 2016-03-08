@@ -1,0 +1,6 @@
+Github Link:
+	https://github.com/emadehsan/AP_Assign1
+
+Implementation Details:
+	Copied pointers do shallow copying
+	When Reference count becomes zero, only then object is deleted. etc
